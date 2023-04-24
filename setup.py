@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='ChuanhuChatGPT',
+    name='mouChatGPT',
     version='',
     packages=[''],
     url='',
